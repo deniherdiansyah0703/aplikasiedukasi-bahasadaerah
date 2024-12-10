@@ -1,0 +1,13 @@
+<!-- res/drawable/circle_button_gray.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Lingkaran luar dengan background abu-abu -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#0066FF"/> <!-- Warna latar belakang abu-abu -->
+            <size
+                android:width="100dp"
+                android:height="100dp"/> <!-- Sesuaikan ukuran lingkaran -->
+        </shape>
+    </item>
+
+</layer-list>

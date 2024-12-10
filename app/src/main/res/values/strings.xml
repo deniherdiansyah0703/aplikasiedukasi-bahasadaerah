@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Noesantara</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sejarahbugis">Sejarah daerah Bugis mencakup periode prasejarah hingga modern, di mana masyarakat Bugis telah memainkan peran penting dalam sejarah maritim dan perdagangan di wilayah Indonesia Timur. Pada masa prasejarah, masyarakat Bugis dikenal sebagai pelaut yang ulung dan memiliki jaringan perdagangan yang luas. Mereka telah berinteraksi dengan berbagai budaya di sepanjang jalur perdagangan, memperkaya warisan budaya mereka. Pada abad ke-17, Bugis memiliki kerajaan yang kuat di Sulawesi Selatan dan bahkan pernah memperluas kekuasaannya hingga ke wilayah-wilayah lain di Nusantara. Hingga saat ini, masyarakat Bugis masih mempertahankan tradisi maritim dan budaya mereka yang kaya.</string>
+    <string name="sejarahbali">Sejarah Pulau Bali mencakup masa prasejarah hingga modern, dengan warisan budaya yang kaya dan unik. Pada masa prasejarah, Bali telah menjadi pusat peradaban dengan kegiatan pertanian dan perdagangan. Pengaruh Agama Hindu datang pada abad ke-1 M, membentuk budaya dan kehidupan masyarakat Bali. Bali pernah menjadi bagian dari kerajaan-kerajaan besar di Nusantara seperti Majapahit. Selama masa kolonial Belanda, Bali mengalami perlawanan yang signifikan. Setelah kemerdekaan, Bali tetap menjadi bagian penting Indonesia dan menjadi tujuan wisata populer.</string>
+    <string name="sejarahsunda">Sejarah Sunda merujuk pada masalalu wilayah barat Pulau Jawa yaitu Jawa Barat dan Banten. Sejarah Sunda yang kaya mencakup masa kejayaan kerajaann kuno seperti Tarumanegara dan Sunda, menjadi pusat perdagangan dan kebudayaan di Nusantara. Diambil alih oleh Majapahit sebelum jatuh ke tangan Kesultanan Banten dan Cirebon, Kemudia menjadi wilayah kolonial Belanda hingga era kemerdakaan Indonesia pada tahun 1945. Sejak itum Sunda terus menjadi pusat budaya dan ekonomi di Indonesia</string>
+    <string-array name="languages">
+        <item>Bahasa Bali</item>
+        <item>Bahasa Sunda</item>
+        <item>Bahasa Bugis</item>
+    </string-array>
+    <string name="job_success">Job Success</string>
+    <string name="ui_ux_designer">UI/UX Designer</string>
+    <string name="my_desc">Haii.. Saya Deni Herdiansyah, kebanyakan orang salah sangka akan nama saya yang dominan untuk laki-laki, nyatanya saya adalah seorang perempuan dan wanita kuat. Terimakasih
+    telah membaca, happy selaluu ^^ </string>
+    <string name="about_me">About Me</string>
+    <string name="contact">Contact</string>
+    <string name="skills">Experience</string>
+    <string name="ratings">Star Ratings</string>
+    <string name="samplereview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pretium bibendum sapien, ut euismod massa. Duis convallis sem sed turpis elementum auctor.</string>
+</resources>
